@@ -1,0 +1,1 @@
+# Type-2-Diabetes-Prediction Type 2 Diabetes Prediction is a ML model to check if a person has diabetes or not by selecting various inputs regarding their health.  With the help of this model we can help distinguish the risk and chances of having diabetes with the help of graphs, charts and explanation.
